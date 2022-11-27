@@ -24,5 +24,3 @@ const char = {
 ```
 
 ---
-
-[![Build status](https://ci.appveyor.com/api/projects/status/579bbw6r1360busb?svg=true)](https://ci.appveyor.com/project/Nikolay-Davydov/async-await)
